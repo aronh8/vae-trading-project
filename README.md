@@ -176,10 +176,11 @@ Potential extensions include:
 
 ## Authors
 
-Áron Holló
-Árpád Takács
-Regina Fiam
+- Áron Holló
+- Árpád Takács
+- Regina Fiam
 
 Advanced Machine Learning Project
 
+Department of Physics of Complex Systems  
 Eötvös Loránd University (ELTE)
