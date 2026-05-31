@@ -1,4 +1,4 @@
-# Stock Return Prediction with Supervised CNN Variational Autoencoders
+# Stock Return Prediction with Supervised CNN Variational Autoencoders.
 
 ## Overview
 
